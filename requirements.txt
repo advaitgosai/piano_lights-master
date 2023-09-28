@@ -1,0 +1,12 @@
+Package       Version
+------------- -------
+future        0.18.2
+iso8601       0.1.16
+mido          1.2.10
+pip           21.1.1
+pygame        2.0.2
+pyserial      3.5
+python-rtmidi 1.4.9
+PyYAML        6.0
+serial        0.0.97
+setuptools    56.0.0
